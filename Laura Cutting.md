@@ -1,14 +1,9 @@
----
-title: Laura Cutting
----
-
-### Materials
 
 #### Main fabric
 
    - Cut **2 leg** parts.
    - Cut **1 waistband** parts.
-   - (Optional)Cut **2 gusset** parts.
+   - (Optional) Cut **2 gusset** parts.
    
 <Note>
 
