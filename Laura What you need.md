@@ -1,6 +1,3 @@
----
-title: Laura What you need
----
 
 To make Laura, you will need the following:
 
