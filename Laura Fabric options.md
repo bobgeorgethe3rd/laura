@@ -1,6 +1,3 @@
----
-title: Laura Fabric options
----
 
 ### Main Fabric
 
